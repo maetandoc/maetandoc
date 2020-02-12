@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
-
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -542,59 +541,6 @@ section.form .container {
 #msg-box5-7 P {
   font-size: 14px;
 }
-#header3-8 .mbr-section-title,
-#header3-8 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-8 .mbr-section-subtitle {
-  font-size: 16px;
-}
-#header3-8 .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-}
-#msg-box5-9 H3 {
-  font-size: 22px;
-  text-align: left;
-}
-#msg-box5-9 SPAN {
-  font-size: 16px;
-}
-#msg-box5-9 P {
-  text-align: left;
-  font-size: 14px;
-}
-#msg-box5-a H3 {
-  font-size: 22px;
-  text-align: left;
-}
-#msg-box5-a SPAN {
-  font-size: 16px;
-}
-#msg-box5-a P {
-  font-size: 14px;
-}
-#msg-box5-b H3 {
-  font-size: 22px;
-  text-align: left;
-}
-#msg-box5-b SPAN {
-  font-size: 16px;
-}
-#msg-box5-b P {
-  font-size: 14px;
-}
-#msg-box5-1l H3 {
-  font-size: 25px;
-  text-align: left;
-}
-#msg-box5-1l SPAN {
-  font-size: 16px;
-}
-#msg-box5-1l P {
-  font-size: 14px;
-  text-align: left;
-}
 #form1-c .form-control-label {
   color: #232323;
 }
@@ -796,6 +742,7 @@ section.form .container {
 #header3-f .mbr-section-subtitle {
   text-align: center;
 }
+
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -870,7 +817,60 @@ section.form .container {
 }
 #msg-box5-s P {
   text-align: left;
+  font-size: 13px;
+}
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1n .mbr-section-subtitle {
+  font-size: 16px;
+}
+#header3-1n .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+#msg-box5-1o H3 {
+  font-size: 22px;
+  text-align: left;
+}
+#msg-box5-1o SPAN {
+  font-size: 16px;
+}
+#msg-box5-1o P {
+  text-align: left;
   font-size: 14px;
+}
+#msg-box5-1p H3 {
+  font-size: 22px;
+  text-align: left;
+}
+#msg-box5-1p SPAN {
+  font-size: 16px;
+}
+#msg-box5-1p P {
+  font-size: 14px;
+}
+#msg-box5-1q H3 {
+  font-size: 22px;
+  text-align: left;
+}
+#msg-box5-1q SPAN {
+  font-size: 16px;
+}
+#msg-box5-1q P {
+  font-size: 14px;
+}
+#msg-box5-1r H3 {
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box5-1r SPAN {
+  font-size: 16px;
+}
+#msg-box5-1r P {
+  font-size: 14px;
+  text-align: left;
 }
 #ext_menu-1h .hide-buttons .nav-btn {
   display: none !important;
