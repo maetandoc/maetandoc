@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -276,7 +276,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Need a new business partner?",
-          "subtitle": "Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services.",
+          "subtitle": "Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services. If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "mcla.tandoc@gmail.com",
@@ -2353,7 +2353,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Need a new business partner?",
-          "subtitle": "Interested in other services not included in here? I also have custom pricing and referrals to other reputable freelancers.",
+          "subtitle": "Interested in other services not included in here? I also have custom pricing and referrals to other reputable freelancers.<br>If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "mcla.tandoc@gmail.com",
