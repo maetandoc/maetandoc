@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -22,7 +22,9 @@
       },
       "additionalSetColors": [
         "#f4e0a9",
-        "#ffc5c4"
+        "#ffc5c4",
+        "#323232",
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -55,7 +57,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 65,
+    "uniqCompNum": 73,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -179,7 +181,7 @@
           },
           "title": "MY POCKET PARTNER",
           "text": "Virtual Assistant &amp; Social Media Services",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">Say Hello</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">Say Hello</a>     ",
           "_tags": [
             "Theme"
           ],
@@ -203,8 +205,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "37",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -260,12 +262,78 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Find My Pocket Partner on Social Media!",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/my-pocket-partner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1z"
+        },
+        {
+          "_params": {
+            "token": "4682486360.727bfe1.0f4d2d85be894a2bb50c862d70d9f84c",
+            "showTitle": false,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": 4,
+            "spacing": "0",
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-20"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#232323",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -321,7 +389,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -588,7 +656,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -879,7 +947,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1110,7 +1178,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1311,7 +1379,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1803,7 +1871,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2398,7 +2466,7 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

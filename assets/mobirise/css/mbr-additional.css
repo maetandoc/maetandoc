@@ -541,6 +541,17 @@ section.form .container {
 #msg-box5-7 P {
   font-size: 14px;
 }
+#social-buttons2-1z .mbr-section-title,
+#social-buttons2-1z .btn-social {
+  color: #232323;
+}
+#social-buttons2-1z .btn-social > * {
+  vertical-align: middle;
+  padding-right: 0;
+}
+#social-buttons2-1z .mbr-section-title {
+  font-size: 22px;
+}
 #form1-c .form-control-label {
   color: #232323;
 }
