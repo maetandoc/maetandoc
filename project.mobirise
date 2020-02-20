@@ -57,7 +57,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 75,
+    "uniqCompNum": 78,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -2053,6 +2053,24 @@
           ],
           "_name": "header3",
           "_anchor": "header3-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>We own up to several qualities you can't put a price on.  When working with My Pocket Partner, you will receive the highest standards of reliability, communication, flexibility, and resourcefulness. We work with high speed internet (on both phone and PC!) and professional tools to ensure that your projects go through as smoothly as possible. We also prefer to interact with you casually and honestly. No airs. No stuffiness. No BS. We're just here to support you!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-25",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
         },
         {
           "_params": {
