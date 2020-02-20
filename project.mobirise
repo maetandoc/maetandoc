@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -57,7 +57,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -242,7 +242,7 @@
             }
           },
           "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your virtual assistant and social media manager with a human touch!</span>",
-          "text": "We believe that mastering the art of cultivating genuine relationships online and strengthening the bridge between you and your customers is the key to long-term success. <br><br>My Pocket Partner is an exclusive virtual assistant and social media company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants”, we usually tell people to think of us as “business partners” because we understand the tedious tasks involved with being an entrepreneur, and the struggles of keeping up with the ever-changing trends online. \n<br>\n<br>If you’re excited, we’re excited with you! If something goes awry, we’ll help you to stay back on track!<br>\n<br>My Pocket Partner specializes in branding, social media, copywriting, graphic design, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk!\n<br>&nbsp;",
+          "text": "We believe that mastering the art of cultivating genuine relationships online and strengthening the bridge between you and your customers is the key to long-term success. <br><br>My Pocket Partner is an exclusive virtual assistant and social media company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants”, we usually tell people to think of us as “business partners” because we understand the tedious tasks involved with being an up-and-coming entrepreneur, and the struggles of keeping up with the ever-changing trends online. We get new business owners to the next level.<br>\n<br>If you’re excited, we’re excited with you. If something goes awry, we’ll help you to stay back on track!<br>\n<br>My Pocket Partner specializes in branding, social media, copywriting, graphic design, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk!\n<br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Read more about your pocket partner</a>",
           "_tags": [
             "Theme"
@@ -347,9 +347,9 @@
           "subtitle": "Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services. If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
-            "action": "mcla.tandoc@gmail.com",
+            "action": "mypocketpartner@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form! We'll get back to you within 2-3 business days."
             },
             "fields": {
               "name": {
@@ -386,6 +386,52 @@
               "font-size": "14px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Be the first to know!",
+          "subtitle": "Get exclusive access to new services, discounts, and free tips for taking your new business to the next level.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
+          "form": {
+            "action": "mypocketpartner@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-21"
         },
         {
           "_params": {
@@ -2052,7 +2098,7 @@
             }
           },
           "title": "Consultation<br>",
-          "text": "<b>&nbsp;FREE!</b><br><b>\n</b><br>I will consult with you on all branding, marketing, and social media aspects of your business.\n<br>\n<br><b>$200/month</b><b><br></b>\n<br>In the first month, we will discuss in-depth how you can develop your identity online and how to implement a basic outreach strategy. A date will be set up every month to discuss the\nstrategies we have implemented for your brand and how\nwe can improve it. Every month, you will receive an in-depth monthly report.",
+          "text": "<b>FREE!</b><br><b>\n</b><br>I will identify the strengths and weaknesses of your business, and discuss the next needed steps in branding, marketing, and social media to take you to the next level.<br>\n<br><b>$200/month</b><b><br></b>\n<br>In the first month, we will work together in developing or tightening your brand identity online, and create strategies for achieving your business goals.&nbsp;<br><br>Every month, you will receive an in-depth monthly report. Based on this report, a 1-2 hour call will be scheduled every month to discuss the results and improve the strategies for your brand.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2099,6 +2145,71 @@
             "image": {
               "active": true,
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x941.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Virtual Assistant &amp; Administration<br>",
+          "text": "<b>$25/hr or monthly retainer</b><br>Depending on your project, I can help you on an as-needed or project basis basis. A time tracking system will be set up for the client and a time breakdown report of all the tasks completed will be provided every month. Full package service includes (but are not limited to):\n<br>\n<br>• Data Entry\n<br>• Organization<br>• Customer Support &amp; Live Chat<br>• Research\n<br>• Email Marketing &amp; Management<br>• Event Planning<br>• Travel Coordination\n<br>• Calendar &amp; Appointment Setting<br>• Report &amp; Presentation Preparation\n<br>• Database Creation &amp; Management\n<br>• Transcription\n<br>• Social Media Tasks<br>• Website Management (updating text, images, etc.) <br>• Marketing Material Creation<br>• Proofreading &amp; Writing<br>• Video &amp; Photo Editing<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box5-19"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "51",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
               "link": "",
               "alt": "",
@@ -2117,7 +2228,7 @@
             }
           },
           "title": "Social Media Management<br>",
-          "text": "<b>$250 - $1,000/month</b><br><b>\n​</b>\n<br>Based on your social media needs, I will handle everything from account optimization to management to engagement. Full package service includes:\n<br><br>•&nbsp;Account Creation &amp; Optimization\n<br>•&nbsp;Account Audit&nbsp;<br>•&nbsp;Post Management\n<br>•&nbsp;Planning &amp; Scheduling\n<br>•&nbsp;Light Photo Editing for Posts\n<br>•&nbsp;Content Creation\n<br>•&nbsp;Graphics Creation\n<br>•&nbsp;Story Creation\n<br>•&nbsp;Management of all Social Media\n<br>•&nbsp;Comments, DMs, Likes, Story Views + Interaction\n<br>•&nbsp;Social Media Ads**",
+          "text": "<b>$250 - $1,000/month</b><br><b>\n​</b>\n<br>Based on your social media needs, I will handle everything from account management to engagement. Full package service includes:<br><br>•&nbsp;Account Creation &amp; Optimization\n<br>•&nbsp;Account Audit&nbsp;<br>• Post Management of all Social Media <br>•&nbsp;Planning &amp; Scheduling\n<br>•&nbsp;Light Photo Editing for Posts\n<br>•&nbsp;Content Creation<br>•&nbsp;Graphics Creation\n<br>•&nbsp;Story Creation\n<br>•&nbsp;Comments, DMs, Likes, Story Views + Interaction<br>\n• Reputation Management<br>•&nbsp;Social Media Ads**<br><br>Custom pricing available for clients who want to customize their service.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2181,8 +2292,8 @@
               "size": 0
             }
           },
-          "title": "Graphic Design<br>",
-          "text": "<b>$50/hr</b><br><b>Discount available for VA services only.​</b><b><br></b>\n<br>Based on your project, I will design a creative that fulfills your brand, purpose, and strategy.\n<br>\n<br>Communication is a very important aspect in this process.&nbsp;",
+          "title": "Graphic Design &amp; Photo Editing<br>",
+          "text": "<b>$50/hr</b><br><b>Discount available for VA services only.​</b><b><br></b>\n<br>Do you need some simple, on-brand designs for social media, Pinterest, your blog, and ad? Based on your project, I will design creatives that fulfill your goals and takes extra time off your hands.<br><br><b>Retouching<br>$25 - $60 per photo\n</b><br>\n<br>Depending on the extent of edits you need done, I will artistically and meticulously retouch your photos down to industry standards. Services include: \n<br>\n<br>• Color Correction \n<br>• Skin, Eyes, Teeth, Minor Hair Issues \n<br>• Removing Objects \n<br>• Thinning, Changing Features, Softening Armpits \n<br>• Removing Wrinkles, Folds, and Other Clothing Mishaps \n<br>• Natural Digital Makeup<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2232,71 +2343,6 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x941.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Virtual Assistant &amp; Administration<br>",
-          "text": "<b>$25/hr or monthly retainer</b><br>Depending on your project, I can help you on an as-needed basis. A time tracking system will be set up for the client. Full package service includes (but are not limited to):\n<br>\n<br>• Data Entry\n<br>• Customer Support &amp; Live Chat<br>• Research\n<br>• Email Marketing &amp; Management<br>• Microsoft Office Suite Support \n<br>• Travel Coordination\n<br>• Calendar &amp; Appointment Setting<br>• Report Preparation\n<br>• Database Creation &amp; Management\n<br>• Business Document Creation &amp; Editing\n<br>• Transcription\n<br>• Social Media Tasks<br>• Website Management (updating text, images, etc.) <br>• Marketing Material Creation<br>• Basic Copywriting",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "text-align": "left"
-            },
-            "SPAN": {
-              "font-size": "16px"
-            },
-            "P": {
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-19"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "51",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/caffeine-coffee-cup-886470-1400x975.jpg",
               "link": "",
               "alt": "",
@@ -2315,7 +2361,7 @@
             }
           },
           "title": "Copywriting<br>",
-          "text": ".<b>$50/hr or flat rate<br>Discount available for VA services only.</b><b><br></b><br>I will create copy for your project. Flat rates will include the time needed for research, writing, and editing. Unless stated otherwise, all copy will be optimized for SEO. Services include (but are not limited to):\n<br><br>•&nbsp;Blog Posts\n<br>•&nbsp;Articles\n<br>•&nbsp;Press Releases\n<br>•&nbsp;Newsletters\n<br>•&nbsp;Brochures\n<br>•&nbsp;Website",
+          "text": ".<b>$50/hr or flat rate<br>Discount available for VA or SM services only.</b><b><br></b><br>Recommended for larger projects. Flat rates will include the time needed for research, writing, and editing. Unless stated otherwise, all copy will be optimized for SEO. Services include (but are not limited to):\n<br><br>•&nbsp;Blog Posts\n<br>•&nbsp;Articles\n<br>•&nbsp;Press Releases\n<br>•&nbsp;Newsletters\n<br>•&nbsp;Brochures\n<br>•&nbsp;Website",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2338,71 +2384,6 @@
             }
           },
           "_anchor": "msg-box5-1a"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "51",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/girl-with-camera-820x583.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Retouching<br>",
-          "text": "<b>$25 - $60 per photo</b><b><br></b><br>Depending on the extent of edits you need done, I will artistically and meticulously retouch your photos down to industry standards. Services include:\n<br>\n<br>• Color Correction\n<br>• Skin, Eyes, Teeth, Minor Hair Issues\n<br>• Removing Objects\n<br>• Thinning, Changing Features, Softening Armpits\n<br>• Removing Wrinkles, Folds, and Other Clothing Mishaps\n<br>• Natural Digital Makeup<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "font-size": "25px",
-              "text-align": "left"
-            },
-            "SPAN": {
-              "font-size": "16px"
-            },
-            "P": {
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-1c"
         },
         {
           "_params": {
