@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2488,7 +2488,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Need a new business partner?",
-          "subtitle": "Interested in other services not included in here? I also have custom pricing and referrals to other reputable freelancers.<br>If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.<br>",
+          "subtitle": "Please fill out the form below if you are in need of my services or hiring for a VA or SMM role. Interested in other services not included in here? I also have custom pricing and referrals to other reputable freelancers. If you have any problems with this contact form, feel free to email me at&nbsp;<b>mypocketpartner@gmail.com</b>.<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "mcla.tandoc@gmail.com",
