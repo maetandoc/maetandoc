@@ -563,6 +563,12 @@ section.form .container {
 #testimonials1-27 .mbr-section-subtitle {
   font-size: 14px;
 }
+#form1-c .form-control-label {
+  color: #232323;
+}
+#form1-c .mbr-section-subtitle {
+  font-size: 14px;
+}
 #social-buttons2-1z .mbr-section-title,
 #social-buttons2-1z .btn-social {
   color: #232323;
@@ -573,12 +579,6 @@ section.form .container {
 }
 #social-buttons2-1z .mbr-section-title {
   font-size: 22px;
-}
-#form1-c .form-control-label {
-  color: #232323;
-}
-#form1-c .mbr-section-subtitle {
-  font-size: 14px;
 }
 #form2-21 .mbr-section-title {
   color: #ffffff;
