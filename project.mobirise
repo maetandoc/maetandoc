@@ -57,7 +57,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 80,
+    "uniqCompNum": 84,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -265,70 +265,146 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".btn-social > *": {
-              "vertical-align": "middle",
-              "padding-right": "0"
-            },
-            ".mbr-section-title": {
-              "font-size": "22px"
-            }
-          },
+          "_inherit": "features4",
           "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
+            "columns": "6",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "text": "Socalize with us!",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/my-pocket-partner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "browse",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1z"
-        },
-        {
-          "_params": {
-            "token": "4682486360.727bfe1.0f4d2d85be894a2bb50c862d70d9f84c",
-            "showTitle": false,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": 4,
-            "spacing": "0",
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "font-size": "14px"
+            },
+            "P": {
+              "font-size": "14px"
+            }
           },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-20"
+          "title1": "Consultation",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "No stuffiness. No BS. We listen hard to understand your business and your needs - with or without the use of our other services.",
+          "title2": "Branding &amp; Business Development",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Are you a new entrepreneur and don't know where to start? We'll help you out based on our first hand experiences!",
+          "title3": "Virtual Assistant &amp; Adminstration",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "When you need to start allocating tasks to expand your business, &nbsp;we will uphold the same standards of work as you do.",
+          "title4": "Social Media Management",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Don't neglect building relationships with your customers when focusing on the meat and bones of your business.",
+          "title5": "Graphic Design &amp; Photo Editing",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Pictures are worth more than a thousand words. Make sure your customers understand that.",
+          "title6": "Website Design",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Building an attractiev, on-brand website takes a lot of work. We'll make it easier for you.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-28"
         },
         {
           "_params": {
@@ -386,6 +462,72 @@
               "font-size": "14px"
             }
           }
+        },
+        {
+          "_params": {
+            "token": "4682486360.727bfe1.0f4d2d85be894a2bb50c862d70d9f84c",
+            "showTitle": false,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "4",
+            "spacing": "0",
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-20"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Socalize with us!",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/my-pocket-partner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-1z"
         },
         {
           "_params": {

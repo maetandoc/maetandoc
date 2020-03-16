@@ -541,6 +541,28 @@ section.form .container {
 #msg-box5-7 P {
   font-size: 14px;
 }
+#features7-28 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-28 .iconbox {
+  background-color: #90a878;
+  border-color: #90a878;
+}
+#features7-28 H4 {
+  font-size: 14px;
+}
+#features7-28 P {
+  font-size: 14px;
+}
+#testimonials1-27 .mbr-section-title {
+  font-size: 22px;
+}
+#testimonials1-27 .card-block P {
+  font-size: 14px;
+}
+#testimonials1-27 .mbr-section-subtitle {
+  font-size: 14px;
+}
 #social-buttons2-1z .mbr-section-title,
 #social-buttons2-1z .btn-social {
   color: #232323;
@@ -551,15 +573,6 @@ section.form .container {
 }
 #social-buttons2-1z .mbr-section-title {
   font-size: 22px;
-}
-#testimonials1-27 .mbr-section-title {
-  font-size: 22px;
-}
-#testimonials1-27 .card-block P {
-  font-size: 14px;
-}
-#testimonials1-27 .mbr-section-subtitle {
-  font-size: 14px;
 }
 #form1-c .form-control-label {
   color: #232323;
