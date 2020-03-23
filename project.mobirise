@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "socialmediaportfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -65,7 +65,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "My Pocket Partner",
+        "title": "My Pocket Partner | Virtual Assistant & Social Media Management Services",
         "meta_descr": "Welcome to My Pocket Partner, your virtual assistant and social media manager with a human touch! We believe that mastering the art of cultivating genuine relationships online, and strengthening the bridge between you and your customers is the key to long-term success. \n\nMy Pocket Partner is an exclusive VA and social media company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants”, we usually tell people to think of us as “business partners” or “second-pairs-of-eyes” because we understand the tedious tasks involved with being an entrepreneur, and the struggles of keeping up with the ever-changing trends online. \n\nIf you’re excited, we’re excited for you! If something goes awry, we’ll help you to stay back on track!\n\nMy Pocket Partner specializes in branding, social media, copywriting, graphic design, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk! ",
         "header_custom": "",
         "footer_custom": "",
@@ -688,7 +688,7 @@
     "copywritingportfolio.html": {
       "settings": {
         "meta_descr": "The idea is to write it so that people hear it and it slides through the brain and goes straight to the heart.",
-        "title": "My Pocket Partner - Copywriting Portfolio",
+        "title": "My Pocket Partner | Copywriting Portfolio",
         "order": 5
       },
       "components": [
@@ -973,7 +973,7 @@
     "graphicdesignportfolio.html": {
       "settings": {
         "meta_descr": "Do you need some simple, on-brand designs for social\nmedia, Pinterest, your blog, and ad? Based on your project, I\nwill design creatives that fulfill your goals and takes extra\ntime off your hands.",
-        "title": "My Pocket Partner - Graphic Design Portfolio",
+        "title": "My Pocket Partner | Graphic Design Portfolio",
         "order": 3
       },
       "components": [
@@ -1282,7 +1282,7 @@
     "socialmediaportfolio.html": {
       "settings": {
         "meta_descr": "We optimize, manage, create content, and set up ads for social media platforms like Facebook, Instagram, YouTube, and Yelp.",
-        "title": "My Pocket Partner - Social Media Portfolio",
+        "title": "My Pocket Partner |  Social Media Portfolio",
         "order": 2
       },
       "components": [
@@ -1531,7 +1531,7 @@
     "about.html": {
       "settings": {
         "meta_descr": "I specialize in working with entrepreneurs and align myself with your vision to create the most honest and personal relationships so your customers they feel the same passion you do. ",
-        "title": "My Pocket Partner - About",
+        "title": "My Pocket Partner | About",
         "order": 1
       },
       "components": [
@@ -1732,7 +1732,7 @@
     "retouchingportfolio.html": {
       "settings": {
         "meta_descr": "We love clean visuals and will edit your photos to perfect it to industry standards.",
-        "title": "My Pocket Partner - Retouching Portfolio",
+        "title": "My Pocket Partner | Retouching Portfolio",
         "order": 6
       },
       "components": [
@@ -1955,7 +1955,7 @@
     },
     "services.html": {
       "settings": {
-        "title": "My Pocket Partner - Services",
+        "title": "My Pocket Partner | Services",
         "meta_descr": "The services \"My Pocket Partner\" provide range from virtual assistant and admistration to social media.",
         "header_custom": "",
         "footer_custom": "",
@@ -2637,7 +2637,7 @@
     "webdesignportfolio.html": {
       "settings": {
         "meta_descr": "Less is more. We create basic, interactive marketing website designs that are in line with your branding and strategy.",
-        "title": "My Pocket Partner - Web Design Portfolio",
+        "title": "My Pocket Partner | Web Design Portfolio",
         "order": 4
       },
       "components": [
