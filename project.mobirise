@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "services.html",
+    "currentPage": "socialmediaportfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1090,7 +1090,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Do you need some simple, on-brand designs for social\r&nbsp;<span style=\"font-size: 1.07rem;\">media, Pinterest, your blog, and ad? Based on your project, I &nbsp;</span><span style=\"font-size: 1.07rem;\">will design creatives that fulfill your goals and takes extra </span><span style=\"font-size: 1.07rem;\">time off your hands.</span></p>",
+          "text": "<p>Do you need some simple, on-brand designs for social\n<span style=\"font-size: 1.07rem;\">media, Pinterest, your blog, and ad? Based on your project, we&nbsp;</span><span style=\"font-size: 1.07rem;\">will design creatives that fulfill your goals and takes extra </span><span style=\"font-size: 1.07rem;\">time off your hands.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -1848,7 +1848,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>I love clean visuals and will edit your photos to perfect it to industry standards.</p>",
+          "text": "<p>We love clean visuals and will edit your photos to perfect it to industry standards.</p>",
           "_tags": [
             "Theme"
           ],
