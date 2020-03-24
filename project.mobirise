@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "services.html",
+    "currentPage": "graphicdesignportfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1120,24 +1120,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/cc-lounge-2-792x1224.png",
-                "thumb": "@PROJECT_PATH@/assets/images/cc-lounge-2-792x1224-792x1224.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/black-friday-sale-1-1080x1920.png",
                 "thumb": "@PROJECT_PATH@/assets/images/black-friday-sale-1-1080x1920-800x1422.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1149,7 +1137,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1218,30 +1206,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/posterd-2000x2829.png",
                 "thumb": "@PROJECT_PATH@/assets/images/posterd-2000x2829-800x1132.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/meetfresh-bts-2000x2829.png",
-                "thumb": "@PROJECT_PATH@/assets/images/meetfresh-bts-2000x2829-800x1132.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/yellow-and-purple-fortune-teller-pastel-witch-halloween-party-instagram-post-1080x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/yellow-and-purple-fortune-teller-pastel-witch-halloween-party-instagram-post-1080x1080-800x800.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
