@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "services.html",
+    "currentPage": "webdesignportfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2718,7 +2718,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Less is more. We create simple, interactive marketing website designs that are in line with your branding and strategy. To view the source site, please click on the title below the photo.</p>",
+          "text": "<p>Less is more. We create simple, responsive marketing website designs that are in line with your branding and strategy. To view the source site, please click on the title below the photo.</p>",
           "_tags": [
             "Theme"
           ],
