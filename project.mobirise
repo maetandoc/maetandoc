@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "graphicdesignportfolio.html",
+    "currentPage": "copywritingportfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -847,11 +847,23 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334.png",
-                "thumb": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334-750x1334.png",
+                "image": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334-750x1334.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\" target=\"_blank\">Xiang Hotpot Brooklyn Social Media Copy</a>",
+                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\">ICHIEX Ad Copy</a>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065.png",
+                "thumb": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065-800x1708.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.regdesk.co/maximize-benefits-temporary-medical-device-tax-suspension/\" target=\"_blank\">RegDesk: Medical Device Tax Suspension Blog</a>",
                 "active": false
               },
               {
@@ -864,18 +876,6 @@
                 "alt": "",
                 "title": "",
                 "caption": "<a href=\"http://ichiex.co/\" target=\"_blank\">ICHIEX - Our Story</a>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334-750x1334.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\">ICHIEX Ad Copy</a>",
                 "active": false
               },
               {
@@ -907,11 +907,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065.png",
-                "thumb": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065-800x1708.png",
+                "image": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334.png",
+                "thumb": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334-750x1334.png",
                 "alt": "",
                 "title": "",
-                "caption": "<a href=\"https://www.regdesk.co/maximize-benefits-temporary-medical-device-tax-suspension/\" target=\"_blank\">RegDesk: Medical Device Tax Suspension Blog</a>",
+                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\" target=\"_blank\">Xiang Hotpot Brooklyn Social Media Copy</a>",
                 "active": false
               },
               {
