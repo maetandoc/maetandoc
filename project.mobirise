@@ -197,7 +197,7 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "32px"
+              "font-size": "36px"
             },
             ".btn": {
               "font-size": "14px"
