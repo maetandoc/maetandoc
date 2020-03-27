@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mae Tandoc",
-    "currentPage": "webdesignportfolio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -155,14 +155,14 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-5"
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
@@ -173,17 +173,17 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/U0eCSl6pDmY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/U0eCSl6pDmY",
+              "url": "https://www.youtube.com/embed/aMdGBRkyH8I?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/aMdGBRkyH8I",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.2"
           },
           "title": "MY POCKET PARTNER",
-          "text": "Virtual Assistant &amp; Social Media Services",
+          "text": "<i>Your Business Partner with a Human Touch</i><br>Virtual Assistant &amp; Social Media Services",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">Say Hello</a>     ",
           "_tags": [
             "Theme"
@@ -192,12 +192,12 @@
           "_anchor": "header1-4",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "14px"
             },
             ".mbr-section-title": {
-              "color": "#000000",
-              "font-size": "60px"
+              "color": "#ffffff",
+              "font-size": "32px"
             }
           }
         },
@@ -244,7 +244,7 @@
               "size": 0
             }
           },
-          "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your virtual assistant and social media manager with a human touch!</span>",
+          "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your new business partner with a human touch!</span>",
           "text": "We believe that mastering the art of cultivating genuine relationships online and strengthening the bridge between you and your customers is the key to long-term success. We get new business owners to that next level.<br><br>My Pocket Partner is an exclusive virtual assistant and social media company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants”, we usually tell people to think of us as “business partners” because we understand the tedious tasks involved with being an up-and-coming entrepreneur, and the struggles of keeping up with the ever-changing trends online.&nbsp;<br>\n<br>If you’re excited, we’re excited with you. If something goes awry, we’ll help you to stay back on track!<br>\n<br>My Pocket Partner specializes in consulting, branding, social media, copywriting, content creation, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk!\n<br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Read more about your pocket partner</a>",
           "_tags": [
@@ -716,7 +716,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -775,7 +777,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-m"
         },
@@ -1001,7 +1003,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1060,7 +1064,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-i"
         },
@@ -1274,7 +1278,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1333,7 +1339,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-d"
         },
@@ -1523,7 +1529,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1582,7 +1590,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-p"
         },
@@ -1724,7 +1732,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1782,7 +1792,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1h"
         },
@@ -1942,7 +1952,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">SAY HELLO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">SAY HELLO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1951,7 +1961,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2010,7 +2022,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-w"
         },
@@ -2629,7 +2641,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2688,7 +2702,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2c"
         },
