@@ -511,7 +511,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Need a new business partner?",
-          "subtitle": "Please fill out the form below if you are in need of my services or hiring for a VA or SMM role. Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services. If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.",
+          "subtitle": "Please fill out the form below if you are in need of my services or hiring for a VA or digital marketing role. Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services. If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "mypocketpartner@gmail.com",
