@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Mae Tandoc",
+    "name": "My Pocket Partner",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -12,19 +12,20 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f4e0a9",
         "dangerColor": "#ffc5c4",
-        "titleFont": "Quicksand",
+        "titleFont": "Raleway",
         "subtitleFont": "Montserrat",
         "textFont": "Montserrat",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
         "#f4e0a9",
         "#ffc5c4",
         "#323232",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#f8f8f8"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -41,9 +42,9 @@
         "url": "https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700"
       },
       {
-        "css": "'Montserrat', sans-serif",
-        "name": "Montserrat",
-        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+        "css": "'Raleway', sans-serif",
+        "name": "Raleway",
+        "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
       },
       {
         "css": "'Quicksand', sans-serif",
@@ -57,7 +58,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 96,
+    "uniqCompNum": 117,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -78,17 +79,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -97,7 +102,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -106,25 +113,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -182,8 +191,8 @@
             "overlayColor": "#323232",
             "overlayOpacity": "0.2"
           },
-          "title": "MY POCKET PARTNER",
-          "text": "<i>Your Business Partner with a Human Touch</i><br>Virtual Assistant &amp; Social Media Services",
+          "title": "My Pocket Partner",
+          "text": "<i>Your New Business Partner</i><br>Virtual Assistant &amp; Social Media Services",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">Say Hello</a>     ",
           "_tags": [
             "Theme"
@@ -217,7 +226,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -247,8 +256,8 @@
               "size": 0
             }
           },
-          "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your new business partner with a human touch!</span>",
-          "text": "We believe that mastering the art of cultivating genuine relationships online and strengthening the bridge between you and your customers is the key to long-term success. We get new business owners to that next level.<br><br>My Pocket Partner is an exclusive virtual assistant and social media company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants”, we usually tell people to think of us as “business partners” because we understand the tedious tasks involved with being an up-and-coming entrepreneur, and the struggles of keeping up with the ever-changing trends online.&nbsp;<br>\n<br>If you’re excited, we’re excited with you. If something goes awry, we’ll help you to stay back on track!<br>\n<br>My Pocket Partner specializes in consulting, branding, social media, copywriting, content creation, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk!\n<br>&nbsp;",
+          "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your new business partner!</span>",
+          "text": "We believe that mastering the art of cultivating genuine relationships online and strengthening the bridge between you and your customers is the key to long-term success. We get new business owners to that next level.<br><br>My Pocket Partner is an exclusive virtual assistant and social media company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants” and \"social media managers\", we usually tell people to think of us as “business partners” because we understand the tedious tasks involved with being an up-and-coming entrepreneur, and the struggles of keeping up with the ever-changing trends online.&nbsp;<br>\n<br>If you’re excited, we’re excited with you. If something goes awry, we’ll help you to stay back on track!<br>\n<br>My Pocket Partner specializes in consulting, branding, social media, copywriting, content creation, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk!\n<br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Read more about your pocket partner</a>",
           "_tags": [
             "Theme"
@@ -285,7 +294,7 @@
             "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "W e &nbsp;s p e c i a l i z e &nbsp;i n . . .&nbsp;",
           "meta": "M y &nbsp;e x p e r i e n c e s &nbsp;i n c l u d e . . .",
@@ -311,7 +320,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -438,6 +447,19 @@
           "_anchor": "features7-28"
         },
         {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef",
+              "font-size": "22px"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block P": {
+              "font-size": "14px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
@@ -447,145 +469,41 @@
             "count": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
+          "_tags": [
+            "Theme"
+          ],
           "title": "Testimonials",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
-              "authorName": "Marissa Hill",
+              "authorName": "Marissa Hill<br>",
               "authorBio": "Owner of Ramble &amp; Red",
               "text": "<p>\"Mae is a talented marketing professional and assistant and has been such a pleasure to work with. As a business owner, it's critical that anyone I work with uphold the same standards for quality work that I do for myself and my clients, and Mae consistently goes above and beyond that standard! She's proactive, responsive, organized, and has a diverse set of skills that make her an asset to any company. Mae is amazing and I truly can't recommend her and her work enough.\"</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/marissa-2-160x160.png",
+                  "src": "@PROJECT_PATH@/assets/images/marissa-1-127x160.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "Ramble & Red",
+                  "alt": "",
                   "title": ""
                 }
               }
             }
           ],
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-27",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "22px"
-            },
-            ".card-block P": {
-              "font-size": "14px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "14px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Need a new business partner?",
-          "subtitle": "Please fill out the form below if you are in need of my services or hiring for a VA or digital marketing role. Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services. If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "form": {
-            "action": "mypocketpartner@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form! We'll get back to you within 2-3 business days."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message (Don't forget to let us know your budget!)"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-c",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "14px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".btn-social > *": {
-              "vertical-align": "middle",
-              "padding-right": "0"
-            },
-            ".mbr-section-title": {
-              "font-size": "22px"
-            }
-          },
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "Socalize with us!",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/company/my-pocket-partner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1z"
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-2p"
         },
         {
           "_params": {
@@ -598,7 +516,7 @@
             "layoutSliderRadio": true,
             "imagesPerRowSlider": "4",
             "spacing": "0",
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColorRadio": true,
@@ -635,7 +553,7 @@
             "showTitle": true,
             "showSubTitle": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -667,6 +585,40 @@
           "_anchor": "form2-21"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2o"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -679,7 +631,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -690,7 +642,7 @@
     },
     "copywritingportfolio.html": {
       "settings": {
-        "meta_descr": "The idea is to write it so that people hear it and it slides through the brain and goes straight to the heart.",
+        "meta_descr": "The idea is to write it so that people hear it and it slides through the brain and goes straight to the heart. That also applies to copywriting.",
         "title": "My Pocket Partner | Copywriting Portfolio",
         "order": 5
       },
@@ -700,17 +652,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -720,8 +676,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -730,25 +686,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -794,7 +752,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "Copywriting Portfolio",
           "meta": "By John Smith posted July 20, 2016",
@@ -808,9 +766,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
-          "text": "<p>The idea is to write it so that people hear it and it slides through the brain and goes straight to the heart. To view the source site, please click on the title below the photo.</p>",
+          "text": "<p>In the words of Maya Angelou, \"The idea is to write it so that people hear it and it slides through the brain and goes straight to the heart.\" To view the source site, please click on the title below the photo.</p>",
           "_tags": [
             "Theme"
           ],
@@ -827,16 +785,16 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": "2",
-            "paddingBottom": 4,
+            "spacing": "3",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#f8f8f8",
             "showText": true,
-            "filter": false,
+            "filter": true,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Blog",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -844,47 +802,11 @@
                 "thumb": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-most-in-depth-5-step-guide-to-hashtag-research-you-will-ever-need-2019-06-19-23-45-03-2-1884x4325-800x1837.png",
                 "alt": "",
                 "title": "",
-                "caption": "<a href=\"https://nxtfactor.com/the-most-in-depth-5-step-guide-to-hashtag-research-you-will-ever-need/\" target=\"_blank\">The Most In-Depth 5 Step Guide to Hashtag Research You Will Ever Need</a>",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334-750x1334.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\">ICHIEX Ad Copy</a>",
+                "caption": "<a href=\"https://www.nxtfactor.com/2019/06/12/the-most-in-depth-5-step-guide-to-hashtag-research-you-will-ever-need/\" target=\"_blank\">The Most In-Depth 5 Step Guide to Hashtag Research You Will Ever Need</a>",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065.png",
-                "thumb": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065-800x1708.png",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"https://www.regdesk.co/maximize-benefits-temporary-medical-device-tax-suspension/\" target=\"_blank\">RegDesk: Medical Device Tax Suspension Blog</a>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ichiex-1121x623.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ichiex-1121x623-800x445.png",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"http://ichiex.co/\" target=\"_blank\">ICHIEX - Our Story</a>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
+                "tags": "Blog",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -896,7 +818,91 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Blog",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-forgotten-rule-of-social-media-growth-be-social-2019-06-19-23-46-40-2-1874x4447.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-forgotten-rule-of-social-media-growth-be-social-2019-06-19-23-46-40-2-1874x4447-800x1898.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.nxtfactor.com/2019/04/10/the-forgotten-rule-of-social-media-growth-be-social/\" target=\"_blank\">The Forgotten Rule of Social Media Growth: Be Social</a>",
+                "active": false
+              },
+              {
+                "tags": "Blog",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065.png",
+                "thumb": "@PROJECT_PATH@/assets/images/regdesk-blog-2-1904x4065-800x1708.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.regdesk.co/maximize-benefits-temporary-medical-device-tax-suspension/\" target=\"_blank\">RegDesk: Medical Device Tax Suspension Blog</a>",
+                "active": false
+              },
+              {
+                "tags": "Blog",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-top-3-secrets-of-improving-your-influencer-campaign-2019-06-19-23-48-01-2-1868x3179.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-top-3-secrets-of-improving-your-influencer-campaign-2019-06-19-23-48-01-2-1868x3179-800x1361.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.nxtfactor.com/2019/03/04/the-top-3-secrets-of-improving-your-influencer-campaign/\" target=\"_blank\">The Top 3 Secrets of Improving Your Influencer Campaign</a>",
+                "active": false
+              },
+              {
+                "tags": "Blog",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-dark-social-the-marketing-tactic-of-2019-2019-06-19-23-46-10-3-1864x2927.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-dark-social-the-marketing-tactic-of-2019-2019-06-19-23-46-10-3-1864x2927-800x1256.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.nxtfactor.com/2019/05/10/dark-social-the-marketing-tactic-of-2019/\" target=\"_blank\">Dark Social: The Marketing Tactic of 2019</a>",
+                "active": false
+              },
+              {
+                "tags": "Social Media",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/91702725-461254501257854-2187647987423903744-n-540x961.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/91702725-461254501257854-2187647987423903744-n-540x961-540x961.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.instagram.com/p/B9pCj9RAYkr/\" target=\"_blank\">Anime Dance Music - Social Media Copy</a>",
+                "active": false
+              },
+              {
+                "tags": "Social Media",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334.png",
+                "thumb": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334-750x1334.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\" target=\"_blank\">Xiang Hotpot Brooklyn - Social Media Copy</a>",
+                "active": false
+              },
+              {
+                "tags": "Social Media",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ichiex-ad-750x1334-750x1334.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\" target=\"_blank\">ICHIEX - Ad Copy</a>",
+                "active": false
+              },
+              {
+                "tags": "Website",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -905,42 +911,30 @@
                 "alt": "",
                 "title": "",
                 "caption": "<a href=\"https://ichiex.co/collections/studio/products/led-makeup-travel-mirror\" target=\"_blank\">ICHIEX - Product Copy</a>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Awesome",
+                "tags": "Website",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334.png",
-                "thumb": "@PROJECT_PATH@/assets/images/xhpb-copy2-750x1334-750x1334.png",
+                "image": "@PROJECT_PATH@/assets/images/ichiex-1121x623.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ichiex-1121x623-800x445.png",
                 "alt": "",
                 "title": "",
-                "caption": "<a href=\"https://www.instagram.com/p/BvmRwvplRbH/\" target=\"_blank\">Xiang Hotpot Brooklyn Social Media Copy</a>",
+                "caption": "<a href=\"http://ichiex.co/\" target=\"_blank\">ICHIEX - Our Story</a>",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Website",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-forgotten-rule-of-social-media-growth-be-social-2019-06-19-23-46-40-2-1874x4447.png",
-                "thumb": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-the-forgotten-rule-of-social-media-growth-be-social-2019-06-19-23-46-40-2-1874x4447-800x1898.png",
+                "image": "@PROJECT_PATH@/assets/images/awear-1744x870.png",
+                "thumb": "@PROJECT_PATH@/assets/images/awear-1744x870-800x399.png",
                 "alt": "",
                 "title": "",
-                "caption": "<a href=\"https://nxtfactor.com/the-forgotten-rule-of-social-media-growth-be-social/\" target=\"_blank\">The Forgotten Rule of Social Media Growth: Be Social</a>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-dark-social-the-marketing-tactic-of-2019-2019-06-19-23-46-10-3-1864x2927.png",
-                "thumb": "@PROJECT_PATH@/assets/images/screencapture-nxtfactor-dark-social-the-marketing-tactic-of-2019-2019-06-19-23-46-10-3-1864x2927-800x1256.png",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"https://nxtfactor.com/dark-social-the-marketing-tactic-of-2019/\" target=\"_blank\">Dark Social: The Marketing Tactic of 2019</a>",
+                "caption": "<a href=\"http://awearbrand.com/\" target=\"_blank\">AWEAR Brand - What is Awear?</a>",
                 "active": false
               }
             ]
@@ -950,8 +944,42 @@
           ],
           "articleLayout": false,
           "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-o"
+          "_name": "gallery4",
+          "_anchor": "gallery4-2y"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2u"
         },
         {
           "_params": {
@@ -966,7 +994,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -977,7 +1005,7 @@
     },
     "graphicdesignportfolio.html": {
       "settings": {
-        "meta_descr": "Do you need some simple, on-brand designs for social\nmedia, Pinterest, your blog, and ad? Based on your project, I\nwill design creatives that fulfill your goals and takes extra\ntime off your hands.",
+        "meta_descr": "Do you need some simple, on-brand designs for social\nmedia, Pinterest, your blog, and ad? Based on your project, I\nwill design creatives that fulfill your goals and take extra\ntime off your hands.",
         "title": "My Pocket Partner | Graphic Design Portfolio",
         "order": 3
       },
@@ -987,17 +1015,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1007,8 +1039,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1017,25 +1049,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1081,7 +1115,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "Graphic Design Portfolio",
           "meta": "By John Smith posted July 20, 2016",
@@ -1095,9 +1129,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
-          "text": "<p>Do you need some simple, on-brand designs for social\n<span style=\"font-size: 1.07rem;\">media, Pinterest, your blog, and ad? Based on your project, we&nbsp;</span><span style=\"font-size: 1.07rem;\">will design creatives that fulfill your goals and takes extra </span><span style=\"font-size: 1.07rem;\">time off your hands.</span></p>",
+          "text": "<p>Do you need some simple, on-brand designs for social\n<span style=\"font-size: 1.07rem;\">media, Pinterest, your blog, and ad? Based on your project, we&nbsp;</span><span style=\"font-size: 1.07rem;\">will design creatives that fulfill your goals and take extra </span><span style=\"font-size: 1.07rem;\">time off your hands.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -1118,7 +1152,7 @@
             "paddingTop": "2",
             "paddingBottom": 4,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#f8f8f8",
             "showText": false,
             "filter": false,
             "images": [
@@ -1229,6 +1263,40 @@
           "_anchor": "gallery2-k"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2s"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -1241,7 +1309,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -1252,7 +1320,7 @@
     },
     "socialmediaportfolio.html": {
       "settings": {
-        "meta_descr": "We optimize, manage, create content, and set up ads for social media platforms like Facebook, Instagram, YouTube, and Yelp.",
+        "meta_descr": "We optimize, manage, create content, and set up ads for social media platforms like Facebook, Instagram, YouTube, Yelp, and more.",
         "title": "My Pocket Partner |  Social Media Portfolio",
         "order": 2
       },
@@ -1262,17 +1330,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1282,8 +1354,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1292,25 +1364,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1356,7 +1430,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "Social Media Management Portfolio",
           "meta": "By John Smith posted July 20, 2016",
@@ -1370,7 +1444,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "text": "<p>We optimize, manage, create content, and set up ads for social media platforms like Facebook, Instagram, YouTube, and Yelp.</p>",
           "_tags": [
@@ -1389,16 +1463,16 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": "2",
-            "paddingBottom": 4,
+            "spacing": "4",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#f8f8f8",
             "showText": false,
-            "filter": false,
+            "filter": true,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1407,22 +1481,10 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/ichiex-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ichiex-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1434,31 +1496,7 @@
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mc-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mc-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/xhpb-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/xhpb-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
+                "tags": "Food",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1468,6 +1506,30 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Beauty",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ichiex-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ichiex-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "People",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mc-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mc-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -1476,8 +1538,42 @@
           ],
           "articleLayout": false,
           "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-e"
+          "_name": "gallery4",
+          "_anchor": "gallery4-2x"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2r"
         },
         {
           "_params": {
@@ -1492,7 +1588,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -1513,17 +1609,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1533,8 +1633,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1543,25 +1643,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1607,7 +1709,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "About",
           "meta": "By John Smith posted July 20, 2016",
@@ -1630,7 +1732,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1661,7 +1763,7 @@
             }
           },
           "title": "I'm Mae Tandoc.<br><span style=\"font-weight: normal;\">Pocket Partner.</span>",
-          "text": "Nice to meet you! My name is Mae. I am the owner and very first pocket partner. In the midst of all the data-driven algorithms and analytics involved in small businesses, I am an artist and storyteller at heart. \n<br>\n<br>I specialize in working with entrepreneurs, and align myself with their visions to ensure that their clients and customers feel the same passion about their business as they do.&nbsp;<br><br>So how did I get into this crazy world of helping small businesses? It all started with a little high school project called 愛Ichigo Latte Made &amp; Butler Cafe. I got the first taste of entrepreneurship when working with a team of ecletic, talented individuals who helped me create a brand from the ground up for 3 years. It was my pride and joy. <br>\n<br>Alas, we all went to college and collectively made the decision to disband. After initially going for a Pharmacy degree at the University of the Sciences, I spent most of my days fuming over chemistry equations and drug interactions but my heart had always belonged to creating art, music, films, and telling stories.<br><br>But life had always found a way to lead me to my purpose.<br><br>So I decided to switch over to a Pharmaceutical and Healthcare Business degree (My college only had science degrees!).<br>\n<br>I worked as a freelance singer and model during that time so I had to learn everything from the ground up just to get a little bit of money here and there, while I took on several internships related to my newly-minted degree choice. I also helped out some of my friends in starting their own businesses and learning from their processes. From social media to SEO to website building to PR to sales and marketing, I learned a little bit of everything from hopping around all types of industries. <br>\n<br>Heck, I even had a license to sell life and health insurance at some point! (Sorry, insurance agencies - my license is expired.)<br>\n<br>After graduating, I got \"real\" job working as a digital marketing project manager for a startup company called NXTFactor. I was blessed with the opportunity to work for huge restaurant clients like Chubby Cattle and The XPot. Guess those cafe skills really came to use now, huh? <br>\n<br>Now, I am involved with freelancing as a virtual assistant and social media manager for My Pocket Partner after following my dream of starting an acting career.&nbsp;<br> \n<br>I pride in the fact that gaining these seemingly unrelated experiences allow me to help others as an artist, a businesswoman, and just a plain, human being. Hard work, commitment, and creating genuine, human connections are values that I never lose sight of despite whatever life throws my way.&nbsp;<br>",
+          "text": "My name is Mae. I am the owner and very first pocket partner. In the midst of all the data-driven algorithms and analytics involved in small business and digital marketing, I am an artist and storyteller at heart. \n<br>\n<br>I specialize in working with entrepreneurs, and align myself with their visions to ensure that their clients and customers feel the same passion about their business as they do.&nbsp;<br><br>So how did I get into this crazy world of helping small businesses? Back in high school, my first t-shirt business venture, <a href=\"https://maetandoc.wixsite.com/officialbabydoll\" target=\"_blank\">BABY♡DOLL.&nbsp;</a>was a FLOP. I got my real first taste of entrepreneurship when I started <a href=\"https://aiichigolatte.wixsite.com/cafe\" target=\"_blank\">愛Ichigo Latte Made &amp; Butler Cafe</a>. Working with a team of ecletic, talented individuals who helped me create a brand from the ground up for almost 3 years, it became my pride and joy. <br>\n<br>Alas, we all went to college and collectively made the decision to disband. After initially going for a 6 year Doctor of Pharmacy degree at the University of the Sciences, I spent most of my days fuming over chemistry equations and drug interactions although my heart had always belonged to creating art, music, films, and telling stories.<br><br><i>But life had always found a way to lead me to my purpose.</i><br><br>I decided to switch over to a Pharmaceutical and Healthcare Business degree (My college only had science degrees!) while attending an acting conservatory at Playhouse West to fulfill my creative needs.<br>\n<br>I worked as a freelance singer and model during that time so I had to build my own brand from the ground up just to get a little bit of money here and there while taking on several internships related to my newly-minted degree choice. <br><br>I also helped out some of my friends in starting their own businesses and learning from their processes. From social media to SEO to website building to PR to sales to marketing, I learned a little bit of everything from hopping around all types of industries. Heck, I even had a license to sell life and health insurance at some point! (Sorry, insurance agencies - my license is expired.)<br>\n<br>After graduation, I got a \"real\" job working as a digital marketing project manager for a company called NXTFactor. I was blessed with the opportunity to work for huge restaurant clients like Chubby Cattle and The XPot. Guess those cafe skills really came to use now, huh? <br>\n<br>Now, I am involved with freelancing as a virtual assistant and social media manager for My Pocket Partner after pursuing my dream of working as a full-time actor. Interested in keeping up with my acting career? Check out <a href=\"http://maeclaire.com/\" target=\"_blank\">maeclaire.com</a> and you can see how I put all my digital marketing experiences to the test!<br> \n<br>I pride in the fact that gaining these seemingly unrelated experiences allow me to help others as an artist, a businesswoman, and just a plain, human being. Hard work, commitment, and creating genuine, human connections are values that I never lose sight of despite whatever life throws my way.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -1683,6 +1785,40 @@
           "_anchor": "msg-box5-s"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2q"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -1695,7 +1831,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -1706,7 +1842,7 @@
     },
     "retouchingportfolio.html": {
       "settings": {
-        "meta_descr": "We love clean visuals and will edit your photos to perfect it to industry standards.",
+        "meta_descr": "We love clean visuals and will edit your photos to perfect it to industry standards. Our retouching portfolio reflects that.",
         "title": "My Pocket Partner | Retouching Portfolio",
         "order": 6
       },
@@ -1716,17 +1852,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1736,8 +1876,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1746,25 +1886,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -1809,7 +1951,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "Graphic Design Portfolio",
           "meta": "By John Smith posted July 20, 2016",
@@ -1823,7 +1965,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "text": "<p>We love clean visuals and will edit your photos to perfect it to industry standards.</p>",
           "_tags": [
@@ -1846,7 +1988,7 @@
             "paddingTop": "2",
             "paddingBottom": 4,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#f8f8f8",
             "showText": false,
             "filter": false,
             "images": [
@@ -1909,6 +2051,40 @@
           "_anchor": "gallery2-1j"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2v"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -1921,7 +2097,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -1932,8 +2108,8 @@
     },
     "services.html": {
       "settings": {
-        "title": "My Pocket Partner  Services",
-        "meta_descr": "The services \"My Pocket Partner\" provide range from virtual assistant and admistration to social media.",
+        "title": "My Pocket Partner | Services",
+        "meta_descr": "The services \"My Pocket Partner\" provide range from virtual assistant and admistration to social media mangement and marketing.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1945,17 +2121,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1965,8 +2145,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1975,25 +2155,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2030,32 +2212,42 @@
           "_anchor": "ext_menu-w"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Services",
-          "meta": "By John Smith posted July 20, 2016",
+          "text": "No airs. No stuffiness. No BS. We're just here to support you!",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:mypocketpartner@gmail.com\" data-toolbar=\"-mbrBtnMove\">HOW CAN WE HELP YOU?</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-15"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2z"
         },
         {
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingBottom": "0",
+            "bgColor": "#f8f8f8"
           },
-          "text": "<p>We own up to several qualities you can't put a price on.  When working with My Pocket Partner, you will receive the highest standards of reliability, communication, flexibility, and resourcefulness. We work with high speed internet (on both phone and PC!) and professional tools to ensure that your projects go through as smoothly as possible. We also prefer to interact with you casually and honestly. No airs. No stuffiness. No BS. We're just here to support you!</p>",
+          "text": "<p>We own up to several qualities you can't put a price on.  When working with My Pocket Partner, you will receive the highest standards of reliability, communication, flexibility, and resourcefulness. We work with high speed internet (on both phone and PC!) and professional tools to ensure that your projects go through as smoothly as possible. We also prefer to interact with you casually and honestly.&nbsp;</p><p><br></p><p>If you're thinking, welp... We love your work but you're a little beyond our budget. Reach out to me anyway. If we vibe well, we may be able to find a little wiggle room together. Hopefully, I can accomodate (but no promises!) Interested in other services not included in here? I also have custom pricing and referrals to other reputable freelancers.</p>",
           "_tags": [
             "Theme"
           ],
@@ -2080,7 +2272,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2145,7 +2337,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2210,7 +2402,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2275,7 +2467,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2343,7 +2535,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2411,7 +2603,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2479,7 +2671,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f8",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2532,64 +2724,38 @@
           "_anchor": "msg-box5-22"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
           "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#323232",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Need a new business partner?",
-          "subtitle": "<br>If you're thinking, welp... We love your work but you're a little\nbeyond our budget. Reach out to me anyway. If we vibe well,\nwe may be able to find a little wiggle room together.\nHopefully, I can accomodate (but no promises!)<br><br>Please fill out the form below if you are in need of my services or hiring for a VA or SMM role. Interested in other services not included in here? I also have custom pricing and referrals to other reputable freelancers. If you have any problems with this contact form, feel free to email me at&nbsp;<b>mypocketpartner@gmail.com</b>.<br>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "form": {
-            "action": "mcla.tandoc@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message (Don't forget to let us know your budget!)"
-              }
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "form1-13"
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2w"
         },
         {
           "_params": {
@@ -2604,7 +2770,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
@@ -2625,17 +2791,21 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "hideButtons": true,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-c\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2645,8 +2815,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2655,25 +2825,27 @@
               "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#dfdfdf"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#f0f0f0!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#f8f8f8"
             },
             ".bg-color.transparent .link": {
               "color": "#000000",
@@ -2719,7 +2891,7 @@
             "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "title": "Web Design Portfolio",
           "meta": "By John Smith posted July 20, 2016",
@@ -2733,7 +2905,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f8f8f8"
           },
           "text": "<p>Less is more. We create simple, responsive marketing website designs that are in line with your branding and strategy. To view the source site, please click on the title below the photo.</p>",
           "_tags": [
@@ -2756,7 +2928,7 @@
             "paddingTop": "2",
             "paddingBottom": 4,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#f8f8f8",
             "showText": true,
             "filter": false,
             "images": [
@@ -2807,6 +2979,40 @@
           "_anchor": "gallery2-2e"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2t"
+        },
+        {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 2,
@@ -2819,12 +3025,421 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2019 My Pocket Partner by Mae Claire LLC.",
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_anchor": "footer1-2f"
+        }
+      ]
+    },
+    "case-studies.html": {
+      "settings": {
+        "meta_descr": "Coming Soon.",
+        "title": "My Pocket Partner | Case Studies",
+        "order": 9
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#dfdfdf"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f0f0f0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f8f8f8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#90a878!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mypocketpartnerlogo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-30"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-31"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Coming Soon.",
+          "text": "<p>In the meantime, please contact us at <b>mypocketpartner@gmail.com</b>. We may have some case studies ready for you!&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-32"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-33"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "meta_descr": "Contact My Pocket Partner for virtual assistant, social media, and other creative and digital marketing services.",
+        "title": "My Pocket Partner | Contact",
+        "order": 8
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.8",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-27\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#dfdfdf"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f0f0f0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f8f8f8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#90a878!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mypocketpartnerlogo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-34"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-35"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Need a new business partner?",
+          "subtitle": "<br>Please fill out the form below if you are in need of my services or hiring for a VA or digital marketing role. Click <a href=\"services.html\" target=\"_blank\">here</a> to check out my services. If you have any problems with this contact form, feel free to email me at <b>mypocketpartner@gmail.com</b>.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "mypocketpartner@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! We'll get back to you within 2-3 business days."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message (Don't forget to let us know your budget!)"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "form1-38"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-37"
         }
       ]
     }
