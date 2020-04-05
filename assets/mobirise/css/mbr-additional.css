@@ -484,11 +484,11 @@ section.form .container {
   font-family: 'Raleway', sans-serif;
 }
 #ext_menu-5 .link {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 #ext_menu-5 .dropdown-item,
 #ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.812rem;
 }
 #ext_menu-5 .link:hover,
 #ext_menu-5 .dropdown-item:hover,
@@ -669,6 +669,9 @@ section.form .container {
 #header3-n .mbr-section-subtitle {
   text-align: center;
 }
+#header3-n .mbr-section-title {
+  font-size: 46px;
+}
 #content1-2j P {
   text-align: center;
 }
@@ -751,6 +754,9 @@ section.form .container {
 #header3-j .mbr-section-title,
 #header3-j .mbr-section-subtitle {
   text-align: center;
+}
+#header3-j .mbr-section-title {
+  font-size: 46px;
 }
 #content1-2h P {
   text-align: center;
@@ -835,6 +841,9 @@ section.form .container {
 #header3-f .mbr-section-subtitle {
   text-align: center;
 }
+#header3-f .mbr-section-title {
+  font-size: 46px;
+}
 #content1-2g P {
   text-align: center;
 }
@@ -917,6 +926,9 @@ section.form .container {
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
   text-align: center;
+}
+#header3-q .mbr-section-title {
+  font-size: 46px;
 }
 #msg-box5-s H3 {
   font-size: 22px;
@@ -1009,6 +1021,9 @@ section.form .container {
 #header3-1i .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1i .mbr-section-title {
+  font-size: 46px;
+}
 #content1-2k P {
   text-align: center;
 }
@@ -1087,6 +1102,9 @@ section.form .container {
 #ext_menu-w .link[aria-expanded="true"],
 #ext_menu-w .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
+}
+#msg-box1-2z H3 {
+  font-size: 46px;
 }
 #content1-25 P {
   font-size: 14px;
@@ -1257,6 +1275,9 @@ section.form .container {
 #header3-2d .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2d .mbr-section-title {
+  font-size: 46px;
+}
 #content1-2i P {
   text-align: center;
 }
@@ -1340,6 +1361,9 @@ section.form .container {
 #msg-box3-32 .lead {
   color: #000;
 }
+#msg-box3-32 .mbr-section-title {
+  font-size: 46px;
+}
 #social-buttons4-33 .mbr-section-title,
 #social-buttons4-33 .btn-social {
   color: #fff;
@@ -1421,6 +1445,9 @@ section.form .container {
 }
 #form1-38 .mbr-section-subtitle {
   font-size: 14px;
+}
+#form1-38 .mbr-section-title {
+  font-size: 46px;
 }
 #social-buttons4-37 .mbr-section-title,
 #social-buttons4-37 .btn-social {
