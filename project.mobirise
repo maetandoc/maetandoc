@@ -58,7 +58,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 117,
+    "uniqCompNum": 118,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -192,7 +192,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "My Pocket Partner",
-          "text": "Virtual Assistant &amp; Social Media Services",
+          "text": "Virtual Assistant &amp; Social Media Management Services",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-c\" data-toolbar=\"-mbrBtnMove\">Say Hello</a>     ",
           "_tags": [
             "Theme"
