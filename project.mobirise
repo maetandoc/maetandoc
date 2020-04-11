@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Pocket Partner",
-    "currentPage": "webdesignportfolio.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,8 @@
         "#ffc5c4",
         "#323232",
         "#2e2e2e",
-        "#f8f8f8"
+        "#f8f8f8",
+        "#232323"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -58,7 +59,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 118,
+    "uniqCompNum": 119,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -2323,7 +2324,7 @@
             }
           },
           "title": "Consultation<br>",
-          "text": "<b>FREE!</b><br><b>\n</b><br>We will identify the strengths and weaknesses of your business, and discuss the needed steps in branding, marketing, and social media to take you to the next level.<br>\n<br><b>$200/month</b><b><br></b>\n<br>Every month, you will receive an in-depth monthly report on all aspects of your business. Based on this report, a 1-2 hour call will be scheduled every month to discuss the results and improve the strategies for your brand.&nbsp;",
+          "text": "<b>FREE!</b><br><b>\n</b><br>We will identify the strengths and weaknesses of your business, and discuss the needed steps in branding, marketing, and social media to take you to the next level.<br>\n<br><b>$500/month</b><b><br></b>\n<br>Every month, we will track your online metrics and you will receive an in-depth monthly report on all virtual aspects of your business. Based on this report, a 1-2 hour call will be scheduled every month to discuss the results to find out what is working and what is not working for your brand.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2388,7 +2389,7 @@
             }
           },
           "title": "Virtual Assistant &amp; Administration<br>",
-          "text": "<b>$25/hr, monthly fee, or per-project</b><b><br></b><br>Depending on your project, we can help you on an as-needed or project basis. A time tracking system will be set up for the client and a time breakdown report of all the tasks completed will be provided every month. Full package service includes (but are not limited to):\n<br>\n<br>• Data Entry\n<br>• Organization<br>• Customer Support &amp; Live Chat<br>• Research\n<br>• Email Marketing &amp; Management<br>• Event Planning<br>• Travel Coordination\n<br>• Calendar &amp; Appointment Setting<br>• Report &amp; Presentation Preparation\n<br>• Database Creation &amp; Management\n<br>• Transcription\n<br>• Social Media Tasks<br>• Website Management (updating text, images, etc.) <br>• Marketing Material Creation<br>• Proofreading &amp; Writing<br>• Video &amp; Photo Editing<br>",
+          "text": "<b>$25/hr, monthly fee, or per-project</b><b><br></b><br>Depending on your project, we can help you on an as-needed or project basis. A time tracking system will be set up for the client and a time breakdown report of all the tasks completed will be provided every month. Full package service includes (but are not limited to):\n<br>\n<br>• Data Entry\n<br>• Organization<br>• Customer Support &amp; Live Chat<br>• Research\n<br>• Email Marketing &amp; Management<br>• Operations Management<br>• Event Planning<br>• Travel Coordination\n<br>• Calendar &amp; Appointment Setting<br>• Report &amp; Presentation Preparation\n<br>• Database Creation &amp; Management\n<br>• Transcription\n<br>• Social Media Tasks<br>• Website Management (updating text, images, etc.) <br>• Marketing Material Creation<br>• Proofreading &amp; Writing<br>• Video &amp; Photo Editing<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2452,8 +2453,8 @@
               "size": 0
             }
           },
-          "title": "Social Media Management<br>",
-          "text": "<b>Starting at $500/month</b><br><b>\n​</b>\n<br>No bots. 100% Human. Based on your social media needs, we will handle everything from account management to engagement. Full package service includes:<br><br>• User Persona Analysis<br>•&nbsp;Account Creation and/or Optimization\n<br>•&nbsp;Account Audit<br>• Account &amp; Website Integration<br>• Monthly Social Media Analytics Report<br>• Post Management of all Social Media <br>•&nbsp;Planning &amp; Scheduling<br>• Light Photo &amp; Video Editing for Posts<br>• Curated Content<br>• Original Content Creation<br>•&nbsp;Graphics Creation\n<br>•&nbsp;Story Creation\n<br>•&nbsp;Comments, DMs, Likes, Story Views + Interaction<br>\n• Reputation Management<br>•&nbsp;Social Media Ads**<br><br>Custom pricing available for clients who want to customize their service.",
+          "title": "Social Media Management &amp; Marketing<br>",
+          "text": "<b>Starting at $500/month (custom pricing available)</b><br><b>\n​</b>\n<br>Based on your social media needs, we will handle everything from account management to engagement. Full package service includes:<br><br>• User Persona Analysis<br>•&nbsp;Account Creation and/or Optimization\n<br>•&nbsp;Account Audit<br>• Account &amp; Website Integration<br>• Monthly Social Media Analytics Report<br>• Post Management of all Social Media <br>•&nbsp;Planning &amp; Scheduling<br>• Light Photo &amp; Video Editing for Posts<br>• Curated Content<br>• Original Content Creation<br>•&nbsp;Graphics Creation\n<br>•&nbsp;Story Creation\n<br>•&nbsp;Comments, DMs, Likes, Story Views + Interaction<br>\n• Reputation Management<br>• PR Outreach<br>• Targeted Social Media Ads**<br><br>Custom pricing available for clients who want to customize their service.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2518,7 +2519,7 @@
             }
           },
           "title": "Web Design<br>",
-          "text": "<b>Starting at $1,000 / custom pricing</b><br><b><br></b>We will create a simple, interactive marketing website design that are in line with your branding and strategy. Consultation will be provided throughout the entire process.<br><br><br>",
+          "text": "<b>Starting at $1,000 (custom pricing available)</b><br><b><br></b>We will create a simple, interactive marketing website design that are in line with your branding and strategy. Consultation will be provided throughout the entire process.<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2654,7 +2655,7 @@
             }
           },
           "title": "Copywriting<br>",
-          "text": ".<b>$50/hr or flat rate<br>Discount available for VA or SM services only.</b><b><br></b><br>Recommended for larger projects. Flat rates will include the time needed for research, writing, and editing. Unless stated otherwise, all copy will be optimized for SEO. Services include (but are not limited to):\n<br><br>•&nbsp;Blog Posts\n<br>•&nbsp;Articles\n<br>•&nbsp;Press Releases\n<br>•&nbsp;Newsletters\n<br>•&nbsp;Brochures\n<br>•&nbsp;Website",
+          "text": "<b>$50/hr or flat rate<br>Discount available for VA or SM services only.</b><b><br></b><br>Recommended for larger projects. Flat rates will include the time needed for research, writing, and editing. Unless stated otherwise, all copy will be optimized for SEO. Services include (but are not limited to):\n<br><br>•&nbsp;Blog Posts\n<br>•&nbsp;Articles\n<br>•&nbsp;Press Releases\n<br>•&nbsp;Newsletters\n<br>•&nbsp;Brochures\n<br>•&nbsp;Website",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
           "_tags": [
             "Theme"
@@ -2677,6 +2678,74 @@
             }
           },
           "_anchor": "msg-box5-1a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "51",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Podcast &amp; Audio Editing<br>",
+          "text": "<b>Starting at $150 per audio track based on the length</b><b><br></b><br>You will receive high quality editing for your podcast which includes full editing, mixing, and mastering. Includes:<br><br>•&nbsp;Trimming<br>• Noise Removal<br>• Adding Music &amp; Effects<br>• Rearranging Clips<br>• Equalization, Compression, and Processing<br>• Limiting and Loudness Settings<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more about how I got to where I am</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            "B": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "msg-box5-3a"
         },
         {
           "_params": {
