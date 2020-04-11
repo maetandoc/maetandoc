@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Pocket Partner",
-    "currentPage": "case-studies.html",
+    "currentPage": "how-to-run-your-small-business-virtually-amidst-the-covid-19-pandemic.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -59,7 +59,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "uniqCompNum": 119,
+    "uniqCompNum": 132,
     "versionPublish": "4.11.2",
     "screenshot": "screenshot.png"
   },
@@ -94,7 +94,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -658,7 +658,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -667,7 +667,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1024,7 +1024,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -1033,7 +1033,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1342,7 +1342,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -1351,7 +1351,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1624,7 +1624,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -1633,7 +1633,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1870,7 +1870,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -1879,7 +1879,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2142,7 +2142,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -2151,7 +2151,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2885,7 +2885,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -2894,7 +2894,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3140,7 +3140,7 @@
     },
     "case-studies.html": {
       "settings": {
-        "meta_descr": "Coming Soon.",
+        "meta_descr": "Coming soon.",
         "title": "My Pocket Partner | Case Studies",
         "order": 9
       },
@@ -3155,7 +3155,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -3164,7 +3164,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3189,10 +3189,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3288,7 +3288,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Coming Soon.",
+          "title": "Coming soon.",
           "text": "<p>You have a gist of all the stuff we do... But does everything we do actually work? We're working on breaking down the results we've had from previous clients who have decided to hire us for a majority of our services.</p><p>In the meantime, please contact us at <b>mypocketpartner@gmail.com</b>. We may have some case studies ready for you!&nbsp;</p>",
           "_tags": [
             "Theme"
@@ -3350,7 +3350,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#f8f8f8",
-            "fontSize": "0.8",
+            "fontSize": "0.75",
             "fontName": {
               "css": "'Raleway', sans-serif",
               "name": "Raleway",
@@ -3359,7 +3359,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3384,10 +3384,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3550,6 +3550,545 @@
           "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-37"
+        }
+      ]
+    },
+    "blog.html": {
+      "settings": {
+        "meta_descr": "All the tips, advice, and resources you can use for your small business through My Pocket Partner's blog.",
+        "title": "My Pocket Partner | Blog",
+        "order": 10
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.75",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#dfdfdf"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f0f0f0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f8f8f8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#90a878!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mypocketpartnerlogo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3b"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3c"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Blog",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3g"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/man-wearing-a-face-mask-having-a-video-call-4031817-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Next Blog",
+          "subtitle1": "Coming Soon",
+          "caption1": "Want to learn more about how you can run your small business more smoothly? Stay updated for our next blog!",
+          "title2": "How to Run Your Small Business Virtually Amidst the COVID-19 Pandemic",
+          "subtitle2": "Post by Mae Tandoc on April 11, 2020",
+          "caption2": "As the COVID-19 pandemic inches closer to summer, more and more small business owners are beginning to realize the importance of learning how to run their businesses virtually.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"http://mypocketpartner.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"how-to-run-your-small-business-virtually-amidst-the-covid-19-pandemic.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-3f"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3e"
+        }
+      ]
+    },
+    "how-to-run-your-small-business-virtually-amidst-the-covid-19-pandemic.html": {
+      "settings": {
+        "meta_descr": "As the COVID-19 pandemic inches closer to summer, more and more small business owners are beginning to realize the importance of learning how to run their businesses virtually. Even when the pandemic ends, the entire industry will shift - and business owners will eventually have to consider how they can safeproof their business for the next disaster. This is the perfect time to learn how to run your business remotely. ",
+        "title": "Blog | How to Run Your Small Business Virtually Amidst the COVID-19 Pandemic",
+        "order": 11
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f8f8f8",
+            "fontSize": "0.75",
+            "fontName": {
+              "css": "'Raleway', sans-serif",
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#dfdfdf"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f0f0f0!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f8f8f8"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#90a878!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mypocketpartnerlogo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MY POCKET PARTNER<br></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3h"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "©Copyright 2019 My Pocket Partner by Mae Claire LLC.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3i"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f8",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "How to Run Your Small Business Virtually Amidst the COVID-19 Pandemic",
+          "text": "<p>Post by <b>Mae Tandoc</b> on April 11, 2020</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3j"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#f8f8f8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/man-wearing-a-face-mask-having-a-video-call-4031817-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f8f8f8"
+          },
+          "text": "<p>As the COVID-19 pandemic inches closer to summer, more and more small business owners are beginning to realize the importance of learning how to run their businesses virtually. Even when the pandemic ends, the entire industry will shift - and business owners will eventually have to consider how they can safeproof their business for the next disaster. This is the perfect time to learn how to run your business remotely. Here’s how:</p><p><br></p><p><br></p><p>\n</p><p>\n</p><p><b>1. Review how your small business runs</b></p><p><b><br></b></p><p><b>\n</b></p><p>You must already have a good grasp of how your business functions normally so you can transfer that knowledge to the virtual space. What problems occur when meeting with employees face-to-face? How do your employees prefer to communicate with you? What is being done in person that can be replaced by a program? Do your employees actually use social media? Note all of these down so you can find a permanent, creative, and virtual solution to managing these problems.</p><p><br></p><p><br></p><p>\n</p><p>\n</p><p><b>2. Set up communication vehicles with your employees</b></p><p><b><br></b></p><p><b>\n</b></p><p>There are already two communication vehicles that most businesses use to with their employees: phone and email. But sometimes, these two aren’t the best solutions when working on collaborative projects. Here are a few communication vehicles to consider:</p><p><br></p><p>\n</p><p>\n</p><p><b>• Video Chat:</b> This is our favorite form of virtual communication. Video chat allows us to personally connect with each other through voice, tone, and body language. Plus, most platforms already have the option to share screens with other people. Consider using Skype, Zoom, or FaceTime to connect with employees. At <a href=\"http://mypocketpartner.com/\">My Pocket Partner</a>, our virtual assistants have the expertise in setting up any of these platforms for you.</p><p><br></p><p>\n</p><p>\n</p><p><b>• Messaging</b>: Don’t need to set up a meeting but still want to reach out to your employees as quickly as possible? Some messaging applications even allow you to send files and create channels for different conversations. Some of the most popular platforms include Slack, Whatsapp, Facebook Messenger, and WeChat.</p><p><br></p><p>\n</p><p>\n</p><p><b>• Facebook Groups:</b> Think of Facebook Groups as the corner of the office where people meet for coffee to talk about anything. And your other employees will be able to hear the conversation as well. If you want to virtually make an announcement to the entire team, you can also make use of Facebook Groups.</p><p><br></p><p><br></p><p>\n</p><p>\n</p><p><b>3. Create a project management workflow and find collaborative applications</b></p><p><b><br></b></p><p><b>\n</b></p><p>Creating a project management workflow is where your knowledge of how your business runs really lends itself. Some of the most popular platforms include Asana, Trello, and Monday.com.</p><p><br></p><p> \n</p><p>\n</p><p>The best way to choose from any of these platforms is to know how your employees work with each other. Some platforms are more customizable than others. Make it easier for your team by selecting one that doesn’t require your employees to change too much of their current workflow.\n</p><p>\n</p><p>Begin transferring your physical files online through file hosting services like Google Drive or Dropbox. Many of these hosting sites allow you to share with other people in real time. Additionally, applications like Google Docs or Google Sheets allow multiple people to work on a project at the same time.</p><p><br></p><p><br></p><p> \n</p><p>\n</p><p><b>4. Connect with your audience</b></p><p><b><br></b></p><p><b>\n</b></p><p>Some small businesses make the mistake of dropping their online presence when cutting costs. On the contrary, maintaining the relationship with your customers is one of the most important factors to increase and maintain brand awareness. Continue reaching out to your customers through social media, advertising, and outreach campaigns. Once the pandemic is over, you will be the first brand they think of when they need a product or service.</p><p><br></p><p><br></p><p>\n</p><p>\n</p><p><b>5. Brainstorm creative ways to sell to your customers that is in line with your branding</b></p><p><b><br></b></p><p><b>\n</b></p><p>\n</p><p>Adaption is the key. Are you a restaurant that has temporarily closed down? In addition to takeout, send ready-to-cook products or recipes to your customers. Are you a clothing shop? Send your customers designer masks to wear. Do you cut and style hair? Order some hair wefts, wigs, and extensions online then customize them. Sell and ship it out to your customers.</p><p><br></p><p>\n</p><p>\n</p><p>Your customers aren’t loyal just because of the products or services you provide. They’re loyal because of the standards of quality you’ve created for your business. They’re loyal because they believe in the messages behind your work. Let your customers know that you’re still thinking about them by adjusting to the circumstances of the situation, and provide products or services that can still be provided during these difficult times.</p><p><br></p><p><br></p><p> \n</p><p>\n</p><p><a href=\"http://mypocketpartner.com/\" target=\"_blank\">My Pocket Partner</a> wants to make it easier for you by taking on your workload so you can get back to growing your business. If you have more questions on what we can help your business, email us at<i> mypocketpartner@gmail.com</i> for customized solutions.\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3m",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mypocketpartner/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/maetandoc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3l"
         }
       ]
     }
