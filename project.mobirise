@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Pocket Partner",
-    "currentPage": "index.html",
+    "currentPage": "webdesignportfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -2989,6 +2989,18 @@
                 "alt": "",
                 "title": "",
                 "caption": "<a href=\"http://maeclaire.com/\" target=\"_blank\">Mae Claire</a>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bliss-talent-1894x895.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bliss-talent-1894x895-800x378.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://blisstalentgroup.com/\" target=\"_blank\">Bliss Talent Group</a>",
                 "active": false
               }
             ]
