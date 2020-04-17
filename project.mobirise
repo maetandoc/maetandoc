@@ -467,11 +467,11 @@
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": "1",
+            "count": "2",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -486,12 +486,29 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
-              "authorName": "Marissa Hill<br>",
+              "authorName": "Marissa H.<br>",
               "authorBio": "Owner of Ramble &amp; Red",
               "text": "<p>\"Mae is a talented marketing professional and assistant and has been such a pleasure to work with. As a business owner, it's critical that anyone I work with uphold the same standards for quality work that I do for myself and my clients, and Mae consistently goes above and beyond that standard! She's proactive, responsive, organized, and has a diverse set of skills that make her an asset to any company. Mae is amazing and I truly can't recommend her and her work enough.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/marissa-1-127x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Darius H.",
+              "authorBio": "Owner of Anime Dance Music",
+              "text": "<p>\"Different tier options are available, which fits for any budget. Mae takes time to craft the posts &amp; knows exactly who the target audience should be. She also is in constant discussion with me as to how I can make the brand better. Recommend for anyone who is constantly busy &amp; needs help managing their social media accounts.\"</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/11174335-10205733996483432-4597538556430067649-o-160x160.jpeg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
