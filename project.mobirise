@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Pocket Partner",
-    "currentPage": "how-to-run-your-small-business-virtually-amidst-the-covid-19-pandemic.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f4e0a9",
         "dangerColor": "#ffc5c4",
-        "titleFont": "Raleway",
+        "titleFont": "Cormorant Garamond",
         "subtitleFont": "Montserrat",
         "textFont": "Montserrat",
         "isRoundedButtons": true,
@@ -51,6 +51,26 @@
         "css": "'Quicksand', sans-serif",
         "name": "Quicksand",
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
+      },
+      {
+        "css": "'Cormorant Garamond', serif",
+        "name": "Cormorant Garamond",
+        "url": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+      },
+      {
+        "css": "'Cormorant Unicase', serif",
+        "name": "Cormorant Unicase",
+        "url": "https://fonts.googleapis.com/css?family=Cormorant+Unicase:300,400,500,600,700"
+      },
+      {
+        "css": "'Montserrat Alternates', sans-serif",
+        "name": "Montserrat Alternates",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+      },
+      {
+        "css": "'Montserrat', sans-serif",
+        "name": "Montserrat",
+        "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
     "favicon": "",
@@ -104,8 +124,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -192,7 +212,7 @@
             "overlayColor": "#323232",
             "overlayOpacity": "0.2"
           },
-          "title": "My Pocket Partner",
+          "title": "MY POCKET PARTNER",
           "text": "Virtual Assistant &amp; Social Media Services",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Say Hello</a>     ",
           "_tags": [
@@ -257,7 +277,7 @@
               "size": 0
             }
           },
-          "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your new business partner!</span>",
+          "title": "Welcome to My Pocket Partner,<br><span style=\"font-weight: normal;\">your portable business partner!</span>",
           "text": "We believe that mastering the art of cultivating genuine relationships online and strengthening the bridge between you and your customers is the key to long-term success. We get new business owners to that next level.<br><br>My Pocket Partner is an exclusive virtual assistant and social media management company built up of creative entrepreneurs, storytellers, and artists who have a knack for small business, and have had experience in starting up their own ventures. Instead of “virtual assistants” and \"social media managers\", we usually tell people to think of us as “business partners” because we understand the tedious tasks involved with being an up-and-coming entrepreneur, and the struggles of keeping up with the ever-changing trends online.&nbsp;<br>\n<br>If you’re excited, we’re excited with you. If something goes awry, we’ll help you to stay back on track!<br>\n<br>My Pocket Partner specializes in consulting, branding, social media, copywriting, content creation, and other executive assistance. If you’re a busy business owner who needs a partner to make sure that nothing falls through the cracks, let’s talk!\n<br>&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">Read more about your pocket partner</a>",
           "_tags": [
@@ -694,8 +714,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -709,10 +729,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1060,8 +1080,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1378,8 +1398,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1660,8 +1680,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1906,8 +1926,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1921,10 +1941,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2178,8 +2198,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2193,10 +2213,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2921,8 +2941,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2936,10 +2956,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3191,8 +3211,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3386,8 +3406,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3606,8 +3626,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3905,8 +3925,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Cormorant Garamond', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
             },
             ".navbar-toggler": {
               "color": "#000000"
