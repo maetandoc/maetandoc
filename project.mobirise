@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f4e0a9",
         "dangerColor": "#ffc5c4",
-        "titleFont": "Cormorant Garamond",
+        "titleFont": "Raleway",
         "subtitleFont": "Montserrat",
         "textFont": "Montserrat",
         "isRoundedButtons": true,
@@ -124,8 +124,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -714,8 +714,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1080,8 +1080,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1398,8 +1398,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1680,8 +1680,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1926,8 +1926,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2198,8 +2198,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2941,8 +2941,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3211,8 +3211,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3406,8 +3406,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3626,8 +3626,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3925,8 +3925,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Cormorant Garamond', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i"
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#000000"

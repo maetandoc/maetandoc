@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
-@import url(https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 
 
@@ -41,7 +40,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -55,7 +54,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .btn {
   border-radius: 1.6em;
@@ -74,14 +73,14 @@ h6,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -470,7 +469,7 @@ section.form .container {
 }
 #ext_menu-5 .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-5 .navbar-toggler {
   color: #000000;
@@ -608,7 +607,7 @@ section.form .container {
 }
 #ext_menu-m .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-m .navbar-toggler {
   color: #000000;
@@ -694,7 +693,7 @@ section.form .container {
 }
 #ext_menu-i .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-i .navbar-toggler {
   color: #000000;
@@ -780,7 +779,7 @@ section.form .container {
 }
 #ext_menu-d .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-d .navbar-toggler {
   color: #000000;
@@ -866,7 +865,7 @@ section.form .container {
 }
 #ext_menu-p .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-p .navbar-toggler {
   color: #000000;
@@ -960,7 +959,7 @@ section.form .container {
 }
 #ext_menu-1h .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-1h .navbar-toggler {
   color: #000000;
@@ -1046,7 +1045,7 @@ section.form .container {
 }
 #ext_menu-w .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-w .navbar-toggler {
   color: #000000;
@@ -1228,7 +1227,7 @@ section.form .container {
 }
 #ext_menu-2c .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-2c .navbar-toggler {
   color: #000000;
@@ -1314,7 +1313,7 @@ section.form .container {
 }
 #ext_menu-30 .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-30 .navbar-toggler {
   color: #000000;
@@ -1397,7 +1396,7 @@ section.form .container {
 }
 #ext_menu-34 .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-34 .navbar-toggler {
   color: #000000;
@@ -1482,7 +1481,7 @@ section.form .container {
 }
 #ext_menu-3b .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-3b .navbar-toggler {
   color: #000000;
@@ -1562,7 +1561,7 @@ section.form .container {
 }
 #ext_menu-3h .navbar-caption {
   color: #ffffff;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #ext_menu-3h .navbar-toggler {
   color: #000000;
