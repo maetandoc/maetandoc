@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Pocket Partner",
-    "currentPage": "services.html",
+    "currentPage": "webdesignportfolio.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -12,7 +12,7 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f4e0a9",
         "dangerColor": "#ffc5c4",
-        "titleFont": "Raleway",
+        "titleFont": "Nunito",
         "subtitleFont": "Montserrat",
         "textFont": "Montserrat",
         "isRoundedButtons": true,
@@ -71,6 +71,11 @@
         "css": "'Montserrat', sans-serif",
         "name": "Montserrat",
         "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+      },
+      {
+        "css": "'Nunito', sans-serif",
+        "name": "Nunito",
+        "url": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
       }
     ],
     "favicon": "",
@@ -114,7 +119,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -124,8 +129,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -306,8 +311,8 @@
               "font-size": "16px"
             },
             ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i",
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i",
               "font-size": "16px"
             }
           },
@@ -704,7 +709,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -714,8 +719,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1070,7 +1075,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1080,8 +1085,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1388,7 +1393,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1398,8 +1403,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1670,7 +1675,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1680,8 +1685,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -1916,7 +1921,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1926,8 +1931,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2188,7 +2193,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2198,8 +2203,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -2931,7 +2936,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2941,8 +2946,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3090,18 +3095,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mae-claire-website-1896x900.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mae-claire-website-1896x900-800x380.png",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"http://maeclaire.com/\" target=\"_blank\">Mae Claire</a>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/bliss-talent-1894x895.png",
                 "thumb": "@PROJECT_PATH@/assets/images/bliss-talent-1894x895-800x378.png",
                 "alt": "",
@@ -3201,7 +3194,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3211,8 +3204,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3396,7 +3389,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3406,8 +3399,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3616,7 +3609,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3626,8 +3619,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -3915,7 +3908,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">PORTFOLIOS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"socialmediaportfolio.html\">Social Media Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"webdesignportfolio.html\">Web Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"graphicdesignportfolio.html\">Graphic Design Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"copywritingportfolio.html\">Copywriting Portfolio</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"retouchingportfolio.html\">Retouching Portfolio</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"services.html\">SERVICES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials3-2p\">REVIEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"case-studies.html\">CASE STUDIES</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -3925,8 +3918,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Nunito', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
             },
             ".navbar-toggler": {
               "color": "#000000"
